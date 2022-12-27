@@ -18,10 +18,14 @@
     `function <function name> { //function body }`
 + What are Variables?
     - Variables are the names you give to computer memory locations which are used to store values in a computer program.
-    `$<variable name>`
+        `$<variable name>`
+
 + What are methods?
-    - 
+    - a method is a code block that contains a series of statements. A program causes the statements to be executed by calling \
+    the **method** and specifying any required **method** arguments.
+
 + What are for loops??
+    - a **loop** is used to execute a group of instructions or a block of code multiple times, without writing it repeatedly.
 
 + What is .NET framework?
     - .NET Framework is a software development framework for building and running applications on Windows.
