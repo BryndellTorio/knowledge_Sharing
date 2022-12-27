@@ -17,7 +17,7 @@
     - A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularuty for your application and a high degree of code reusing.
     `function <function name> { //function body }`
 + What are Variables?
-    - Variables are the names you give to computer memory locations which are used to store values in a computer program.
+    - Variables are the names you give to computer memory locations which are used to store values in a computer program. \
         `$<variable name>`
 
 + What are methods?
