@@ -1,4 +1,4 @@
-function Print-Text {
+function Show-Text {
     param ([string]$Name)
         process {
             if ( $Name -eq "Check" ) {
