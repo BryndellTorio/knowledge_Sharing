@@ -49,6 +49,6 @@
 + What is the latest powershell core version?
     - as of my installation PowerShell 7.3.0
 
-+ What is the default version install in windows?
++ What is the default version installed in windows?
     - The default powershell is 5.1. You can check your default powershell version by invoking the command\
     `(Get-Host).Version`
